@@ -1,0 +1,155 @@
+body {
+/*   background-image: url("Image1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%; */
+  margin: 0;
+}
+
+.mainpagebutton {
+  margin: auto;
+}
+
+
+.bg-image {
+  width: 102%;
+}
+
+.center-btn {
+  text-align: center;
+  vertical-align: middle;
+    position: absolute;
+    left: 42%;
+    bottom: 20%;
+  background-color: #FFFFFF;
+  height: 120px;
+  width: 250px;
+  border-radius: 15px;
+  
+}
+.button-text {
+  color: #000000;
+  text-decoration: none;
+  margin-top: 0%;
+  font-size: 90px;
+
+}
+
+.loginform {
+  height: 70%;
+  width: 40%;
+  background-color: #D9D9D9;
+  position: absolute;
+  left: 0;
+  top: 30px;
+   border-radius: 30px;
+  margin-left: 8%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.nameboxes {
+  height: 98.5%;
+  margin: 25px;
+  width: 98.5%;
+  padding: 5px;
+  background-color: #EBC1C1;
+  margin: 2%;
+  margin-top: 10%;
+  border-radius: 10px;  
+}
+
+.fullwidth {
+  width: 75%;
+}
+.First-Name {
+  text-align: center;
+  margin: 0%;
+}
+
+.nameboxdiv {
+  display: inline-block;
+  height: 5%;
+  width: 30%;
+  padding: 5px;
+  margin: 5%;
+  margin-right: 5%;
+}
+
+.namedivlong {
+  height: 5%;
+  width: 75%;
+  padding: 5px;
+  margin: 5%;
+  margin-left: 11%;
+  margin-top: 15%;
+
+}
+
+.SecondPageButton {
+margin-left: 160%;
+margin-top: 0%;
+margin-right: 0%;
+height: 110px;
+  width: 180px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  
+}
+.about-page {
+   position: absolute;
+  left: 0;
+  top: 40px; 
+  width: 30%;
+  margin-left: 25%;
+  margin-top: 2%;
+  margin-right: 0%;
+  font-size: 100%;
+  
+}
+
+
+.ThirdPageButton {
+margin-left: -3%;
+margin-top: 20%;
+margin-right: 0%;
+height: 110px;
+width: 180px;
+background-color: #FFFFFF;
+border-radius: 10px;
+margin-bottom: -7%;
+  
+}
+
+.services-page {
+   position: absolute;
+  left: 0;
+  top: 40px; 
+  width: 30%;
+  margin-left: 23%;
+  margin-top: 2%;
+  margin-right: 0%;
+  font-size: 100%;
+}
+
+.FourthPageButton {
+margin-left: -3%;
+margin-top: 20%;
+margin-right: 0%;
+height: 110px;
+width: 180px;
+background-color: #FFFFFF;
+border-radius: 10px;
+margin-bottom: -7%;
+}
+
+.contact-page {
+  position: absolute;
+  left: 0;
+  top: 40px; 
+  width: 30%;
+  margin-left: 23%;
+  margin-top: 2%;
+  margin-right: 0%;
+  font-size: 100%;
+}
